@@ -1,7 +1,7 @@
 # Keras_test_images
 Testing Keras with images
 
-O programa Keras_t.py para a base de Train, Test e Valid:
+O programa Keras_t.py para a base Train, Test e Valid:
 1 - carrega imagens 200 x 200 da base simpsons 
 2 - utiliza Keras VGG16 model para extrair características
 3 - Grava arquivo csv com classe, caracteristica1, caracteristica2, ...., caracteristicaN
