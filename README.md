@@ -10,5 +10,5 @@ O programa Keras_t.py para a base de Train, Test e Valid:
 6 - seleciona as melhores características usando RandomForestClassifier e SelectFromModel
 7 - Chama os classificadores NB, DT e Knn.
 
-Problema: o numero de características resultante é diferente nas bases de Train, Test e Valid. 
+Problema: o numero de características resultante é diferente nas bases Train, Test e Valid. 
 Erro: ValueError: Expected input with 414 features, got 251 instead
